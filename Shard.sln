@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shard", "Shard\Shard.csproj", "{FBA8F19E-CCD0-48B1-BA63-A27C114FE4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA8F19E-CCD0-48B1-BA63-A27C114FE4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA8F19E-CCD0-48B1-BA63-A27C114FE4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA8F19E-CCD0-48B1-BA63-A27C114FE4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA8F19E-CCD0-48B1-BA63-A27C114FE4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2B7513-14A5-499E-907C-A921A46D8E8E}
+	EndGlobalSection
+EndGlobal
